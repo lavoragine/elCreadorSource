@@ -22,7 +22,7 @@ la primera versión del archivo EPUB ha sido liberada, a continuación, el roadm
 
 ## Test
 
-el EPUBresultante ha sido probado con éxito en Calibre, Thorium y MoonReader (android)
+el EPUB resultante ha sido probado con éxito en Calibre, Thorium y MoonReader (android)
 
 ## Requerimientos
 
